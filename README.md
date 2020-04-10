@@ -1,6 +1,8 @@
 # CryptoHack Docker Container
 
-A Jupyter notebook environment built for attacking crypto challenges, with custom theming matching [CryptoHack](https://cryptohack.org).
+A Jupyter notebook environment built for attacking crypto CTF challenges, with custom theming matching [CryptoHack](https://cryptohack.org).
+
+![screenshot](screenshot.png)
 
 It comes with the following installed and integrated:
  - Sage 9 (based on Python3)
