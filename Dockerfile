@@ -6,7 +6,8 @@ RUN apt-get -qq update \
     && apt-get -qq install -y --no-install-recommends \
     netcat \
     tmux \
-    vim
+    vim \
+    && rm -rf /var/lib/apt/lists/*
 
 USER sage
 
