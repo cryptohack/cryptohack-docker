@@ -4,8 +4,8 @@ A Jupyter notebook environment built for attacking crypto CTF challenges, with c
 
 ![screenshot](screenshot.png)
 
-It comes with the following installed and integrated:
- - Sage 9 (based on Python3)
+The image comes with the following installed and integrated:
+ - Sage 10
  - Pwntools
  - PyCryptodome
  - z3 Prover
